@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+.btn{
+    height:200px;
+    width:200px;
+    border:2px solid black;
+    border-radius: 10px;
+    margin:10px;
+}
+.con1{
+    display: flex;
+    justify-content: center;
+    
+}
+.con2{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.btn1{
+    background-color:palevioletred;
+}
+.btn2{
+    background-color: blue;
+}
+.btn3{
+    background-color: orangered;
+}
+.btn4{
+    background-color: green;
+}
+.flash{
+    background-color: white;
+}
